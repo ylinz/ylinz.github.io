@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F01%2F10%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[第一篇测试文章]]></title>
+    <url>%2F1970%2F01%2F01%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[访问www.ylinz.com获得更多信息与支持。 BLOG To-do List 已完成内容 框架搭建 主题配置 域名配置 JS特效配置 待办内容 给blog上https 添加评论功能 添加访问数插件 添加百度站长数据 添加更多分类 添加搜索功能 增加更炫酷的特效 购买对象存储-&gt;增加相册功能 WEB To-do List 已完成内容 apache服务器配置 tomcat服务器配置 备案 nginx配置 全站上https 待办内容 找一个好一点的模板 找一个开源的java项目 学一点python 学一点node.js 部署一个比较屌的项目 学点springboot life To-do List 待办内容 找个好工作 表格测试 姓名 性别 ylin men saojie 妖精 使用的有道云笔记，本来准备使用typora，想想以后使用mkd的时候不会很多，凑活用吧。]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>博文</tag>
+      </tags>
   </entry>
 </search>
